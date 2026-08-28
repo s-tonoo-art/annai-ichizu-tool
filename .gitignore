@@ -1,0 +1,12 @@
+# 案件データ・成果物（ソフトバンク基地局の実データ・取扱注意）はリポジトリに含めない
+raw/
+*.pdf
+.tile_cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
